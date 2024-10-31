@@ -1,4 +1,4 @@
-[![Banner](https://github.com/cloudposse/.github/blob/main/profile/banner/image.png?raw=true)](https://cpco.io/homepage)
+[![Banner](https://softech.llc/hs-fs/hubfs/big_logo_800X400-removebg-preview.png?width=1414&height=706&name=big_logo_800X400-removebg-preview.png?raw=true)](https://cpco.io/homepage)
 <p align="right">
   <a href="https://slack.cloudposse.com" title="Slack Community"><img src="https://slack.cloudposse.com/for-the-badge.svg" alt="Slack Community"></a>
   <a href="https://cloudposse.com/office-hours/" title="Office Hours"><img src="https://img.shields.io/badge/Office_Hours-2891E8.svg?style=for-the-badge" alt="Office Hours"></a>
